@@ -1,0 +1,6 @@
+config BR2_PACKAGE_AIY_VOICEBONNET
+    bool "aiy_voicebonnet"
+    help
+      Drivers for the Google AIY Voicebonnet V.2
+
+	  https://github.com/builderjer/aiy_voicebonnet
